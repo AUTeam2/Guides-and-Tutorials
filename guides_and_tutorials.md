@@ -67,7 +67,7 @@ På skolen|Tutorials|What is it
 På skolen vil vi ikke komme igennem MQTT.|[steves internet guide tutorial](http://www.steves-internet-guide.com/mqtt-basics-course/)|[sparkfuns beskrivelse](https://learn.sparkfun.com/tutorials/introduction-to-mqtt/all)
 
 ## Programmer <a name="Programmer"></a>
-Tutorials|What is it
+program|Tutorial
 ---------|----------
 Postgresql|[Quick guide til psql](http://postgresguide.com/utilities/psql.html)<br>[psql (klient til PostgreSQL) cheatsheet af Kardones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 Git|[Configure Git to handle line endings](https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings)
