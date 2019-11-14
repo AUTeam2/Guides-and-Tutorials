@@ -76,3 +76,9 @@ program|Tutorial
 Postgresql|[Quick guide til psql](http://postgresguide.com/utilities/psql.html)<br>[psql (klient til PostgreSQL) cheatsheet af Kardones](https://gist.github.com/Kartones/dd3ff5ec5ea238d4c546)
 Git|[Configure Git to handle line endings](https://help.github.com/en/github/using-git/configuring-git-to-handle-line-endings)
 Pycharm|[Janus's guide](https://github.com/AUTeam2/standards/blob/master/PyCharm.md)
+
+
+## Liste med Django-stuff, som skal samles op i tabel:
+- Officiel Django-litteratur, inkl. tutorials: https://www.djangoproject.com/start/
+- Django tutorial YouTube video gammel version (skip første video og spring 4 min ind i anden): https://www.youtube.com/watch?v=CHjXtRrhqxc&list=PL6gx4Cwl9DGBlmzzFcLgDhKTTfNLfX1IK&index=2
+- Django 2.2 tutorial YouTube video: https://www.youtube.com/watch?v=UmljXZIypDc&list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p
