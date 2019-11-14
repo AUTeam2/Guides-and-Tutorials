@@ -15,7 +15,7 @@ i tilfælde af at der blive fundet en god guide eller tutorial, kan den blive li
 8. [Github+Git](#Github+Git)
 9. [JSON](#JSON)
 10. [MQTT(mosquito)](#MQTT(mosquito))
-11. [Programmer](#Programmer)
+11. [Diverse Programmer](#Programmer)
 
 ## SQL <a name="SQL"></a>
 På skolen|Tutorials|What is it
