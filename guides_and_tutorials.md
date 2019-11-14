@@ -1,5 +1,7 @@
 # Guides and Tutorials
 
+![Tutorial](https://cdn.pixabay.com/photo/2016/09/09/05/44/tutorial-1656197_960_720.png)
+
 ## Formål
 i tilfælde af at der blive fundet en god guide eller tutorial, kan den blive linket til her inde.
 
