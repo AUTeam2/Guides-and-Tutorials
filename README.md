@@ -28,7 +28,7 @@ På skolen er vi introduceret til sql i Anders’s timer, hvilket gerne skulle k
 ## HTML+CSS <a name="HTML+CSS"></a>
 På skolen|Tutorials|What is it
 ---------|---------|----------
-På skolen vil vi ikke komme igennem Html eller CSS|[w3schools html tutorial](https://www.w3schools.com/html/default.asp)<br>[w3schools css tutorial](https://www.w3schools.com/css/default.asp)|[w3's beskrivelse](https://www.w3.org/standards/webdesign/htmlcss)
+På skolen vil vi ikke komme igennem Html eller CSS|1. [w3schools html tutorial](https://www.w3schools.com/html/default.asp)<br>2. [w3schools css tutorial](https://www.w3schools.com/css/default.asp)|[w3's beskrivelse](https://www.w3.org/standards/webdesign/htmlcss)
 
 ## Python <a name="Python"></a>
 På skolen|Tutorials|What is it
@@ -58,7 +58,7 @@ På skolen vil vi komme rundt om C++, hvilket vil kunne ses igennem starten af k
 ## Github+Git <a name="Github+Git"></a>
 På skolen|Tutorials|What is it
 ---------|---------|----------
-På skolen er vi introduceret til github igennem Anders’s timer, hvilket gerne skulle kunne findes på blackboard ”SWE” uge 35.|[youtube Git crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>[youtube Git command course](https://www.youtube.com/watch?v=HVsySz-h9r4)<br>[youtube github tutorial](https://www.youtube.com/watch?v=mVnZVw4KJnc)|[atlassian git beskrivelse]( https://www.atlassian.com/git/tutorials/what-is-git)|[howtogeeks github beskrivelse](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
+På skolen er vi introduceret til github igennem Anders’s timer, hvilket gerne skulle kunne findes på blackboard ”SWE” uge 35.|1. [youtube Git crash course](https://www.youtube.com/watch?v=SWYqp7iY_Tc)<br>2. [youtube Git command course](https://www.youtube.com/watch?v=HVsySz-h9r4)<br>3. [youtube github tutorial](https://www.youtube.com/watch?v=mVnZVw4KJnc)|[atlassian git beskrivelse]( https://www.atlassian.com/git/tutorials/what-is-git)|[howtogeeks github beskrivelse](https://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 
 ## JSON <a name="JSON"></a>
 På skolen|Tutorials|What is it
