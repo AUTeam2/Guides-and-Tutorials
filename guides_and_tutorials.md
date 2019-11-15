@@ -1,3 +1,6 @@
+<!--dette dokument er ikke længere i brug, brug istedet url : https://github.com/AUTeam2/Guides-and-Tutorials/blob/master/README.md-->
+[brug dette linkede MD dokument fremover](https://github.com/AUTeam2/Guides-and-Tutorials/blob/master/README.md)
+
 ![Tutorial](https://cdn.pixabay.com/photo/2016/09/09/05/44/tutorial-1656197_960_720.png)
 # Guides and Tutorials
 
