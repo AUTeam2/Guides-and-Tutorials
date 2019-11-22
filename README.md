@@ -68,7 +68,7 @@ På skolen vil vi ikke komme igennem JSON.|[w3schools tutorial](https://www.w3sc
 ## MQTT(mosquito) <a name="MQTT(mosquito)"></a>
 På skolen|Tutorials|What is it|Where to download
 ---------|---------|----------|-----------------
-På skolen vil vi ikke komme igennem MQTT.|[steves internet guide tutorial](http://www.steves-internet-guide.com/mqtt-basics-course/)<br>[YouTube guide to install Paho-MQTT pakage on PyCharm](https://www.youtube.com/watch?v=pKzfNBTRx5U)<br>[How to Use the Paho Python MQTT Client- (Beginners Guide)](https://www.youtube.com/watch?v=QAaXNt0oqSI)|[sparkfuns beskrivelse](https://learn.sparkfun.com/tutorials/introduction-to-mqtt/all)|[Where to get Paho-MQTT with Guide](https://pypi.org/project/paho-mqtt/ )
+På skolen vil vi ikke komme igennem MQTT.|1. [steves internet guide tutorial](http://www.steves-internet-guide.com/mqtt-basics-course/)<br>2. [YouTube guide to install Paho-MQTT pakage on PyCharm](https://www.youtube.com/watch?v=pKzfNBTRx5U)<br>3.[How to Use the Paho Python MQTT Client- (Beginners Guide)](https://www.youtube.com/watch?v=QAaXNt0oqSI)|[sparkfuns beskrivelse](https://learn.sparkfun.com/tutorials/introduction-to-mqtt/all)|[Where to get Paho-MQTT with Guide](https://pypi.org/project/paho-mqtt/ )
 
 ## Programmer <a name="Programmer"></a>
 program|Tutorial
